@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/thedevdojo/glide-php-example/master/public/glide-php-logo.png" width="300" height="auto"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/thedevdojo/glide-php-example/master/public/glide-php-logo.png" width="260" height="auto"></p>
 
 ## Glide PHP Example
 
