@@ -1,7 +1,9 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/thedevdojo/glide-php-example/master/public/glide-php-logo.png"></p>
 
 ## Glide PHP Example
 
-This is an example repo of how to use the Glide PHP library in your Laravel app. Checkout the video here: url
+This is an example repo of how to use the Glide PHP library in your Laravel app. Checkout the video here: [Glide PHP](https://devdojo.com)
 
 Additionally, be sure to checkout the official Glide Documentation here: [glide.thephpleague.com/](http://glide.thephpleague.com/)
+
+<p align="center"><img src="https://raw.githubusercontent.com/thedevdojo/glide-php-example/master/public/glide-php.jpg"></p>
