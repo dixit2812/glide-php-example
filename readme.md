@@ -6,4 +6,4 @@ This is an example repo of how to use the Glide PHP library in your Laravel app.
 
 Additionally, be sure to checkout the official Glide Documentation here: [glide.thephpleague.com/](http://glide.thephpleague.com/)
 
-<p align="center"><img src="https://raw.githubusercontent.com/thedevdojo/glide-php-example/master/public/glide-php.jpg"></p>
+[<img src="https://raw.githubusercontent.com/thedevdojo/glide-php-example/master/public/glide-php.jpg">](https://devdojo.com)
